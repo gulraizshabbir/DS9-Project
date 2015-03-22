@@ -1,0 +1,8 @@
+    <slide class="class1" id="id" style="background:yellow;">
+    <hgroup>
+    <h2>Slide Title</h2>
+    </hgroup>
+    <article>
+    <p>Slide Contents</p>\n
+    </article>
+    </slide>
